@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+.env/
+
+# PDF & Data
+*.pdf
+faiss_index/
+*.faiss
+
+# Streamlit
+.streamlit/
+
+# Cache
+.cache/
